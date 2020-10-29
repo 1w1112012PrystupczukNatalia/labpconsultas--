@@ -1,0 +1,10 @@
+C:\Users\Global Insumos\source\repos\trabajo practico labb\bin\Debug\trabajo practico labb.exe.config
+C:\Users\Global Insumos\source\repos\trabajo practico labb\bin\Debug\trabajo practico labb.exe
+C:\Users\Global Insumos\source\repos\trabajo practico labb\bin\Debug\trabajo practico labb.pdb
+C:\Users\Global Insumos\source\repos\trabajo practico labb\obj\Debug\trabajo practico labb.csprojAssemblyReference.cache
+C:\Users\Global Insumos\source\repos\trabajo practico labb\obj\Debug\trabajo_practico_labb.Form1.resources
+C:\Users\Global Insumos\source\repos\trabajo practico labb\obj\Debug\trabajo_practico_labb.Properties.Resources.resources
+C:\Users\Global Insumos\source\repos\trabajo practico labb\obj\Debug\trabajo practico labb.csproj.GenerateResource.cache
+C:\Users\Global Insumos\source\repos\trabajo practico labb\obj\Debug\trabajo practico labb.csproj.CoreCompileInputs.cache
+C:\Users\Global Insumos\source\repos\trabajo practico labb\obj\Debug\trabajo practico labb.exe
+C:\Users\Global Insumos\source\repos\trabajo practico labb\obj\Debug\trabajo practico labb.pdb

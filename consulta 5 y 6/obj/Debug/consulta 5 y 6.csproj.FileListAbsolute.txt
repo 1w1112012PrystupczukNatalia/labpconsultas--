@@ -1,0 +1,9 @@
+C:\Users\Global Insumos\source\repos\consulta 5 y 6\bin\Debug\consulta 5 y 6.exe.config
+C:\Users\Global Insumos\source\repos\consulta 5 y 6\bin\Debug\consulta 5 y 6.exe
+C:\Users\Global Insumos\source\repos\consulta 5 y 6\bin\Debug\consulta 5 y 6.pdb
+C:\Users\Global Insumos\source\repos\consulta 5 y 6\obj\Debug\consulta 5 y 6.csprojAssemblyReference.cache
+C:\Users\Global Insumos\source\repos\consulta 5 y 6\obj\Debug\consulta_5_y_6.Properties.Resources.resources
+C:\Users\Global Insumos\source\repos\consulta 5 y 6\obj\Debug\consulta 5 y 6.csproj.GenerateResource.cache
+C:\Users\Global Insumos\source\repos\consulta 5 y 6\obj\Debug\consulta 5 y 6.csproj.CoreCompileInputs.cache
+C:\Users\Global Insumos\source\repos\consulta 5 y 6\obj\Debug\consulta 5 y 6.exe
+C:\Users\Global Insumos\source\repos\consulta 5 y 6\obj\Debug\consulta 5 y 6.pdb
